@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/varinda98/ChatCord.git"
 },
-  "author": "Varinda Kataria",
+  "author": "Prageet Sharma",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
